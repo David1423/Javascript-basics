@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+
+BEGIN:VEVENT
+DTSTAMP:20231003T162329Z
+
+DTSTART:20231010T093000
+DTEND:20231010T163000
+SUMMARY:AWS Partner: AWS Cloud Practitioner Essentials 
+
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="https://dxcportal.sharepoint.com" /></head><body><a href="https://partnercentral.awspartner.com/LmsSsoRedirect?RelayState=%2flearningobject%2filt%3fid%3d136408"><span style="font-size:16.0pt;color:#0066CC">AWS Partner: AWS Cloud Practitioner Essentials </span></a><p style="text-align:justify;">This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles. You will learn about AWS Cloud concepts, AWS services, security, architecture, pricing, and support to build your AWS Cloud knowledge. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.</p></body></html>
+
+
+
+
+
+
+CATEGORIES:Technical
+END:VEVENT
+END:VCALENDAR
